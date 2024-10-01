@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MyModeus</string>
+    <string name="title_home">Расписание</string>
+    <string name="title_dashboard">Оценки</string>
+    <string name="title_electives">Выбор элективов</string>
+</resources>
